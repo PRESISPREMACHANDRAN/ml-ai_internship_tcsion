@@ -1,1 +1,4 @@
 # ml-ai_internship_tcsion
+
+OPEN INFERENCE FILE->RUN 
+OUTPUT WILL DISPLAY
